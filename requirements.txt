@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+ocpp
+python-dotenv
+websockets
+pytest-asyncio
+pytest
+httpx
+vcrpy
